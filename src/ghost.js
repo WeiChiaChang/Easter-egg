@@ -2,36 +2,35 @@
 
   "use strict";
 
-  // type 'bravo' on your keyboard
-  var key = [66,82,65,86,79];
+  // type 'ghost' on your keyboard
+  var key = [71,72,79,83,84];
   var ck = 0;
   var max = key.length;
 
-  var bravo = function() {
+  var ghost = function() {
 
     var shock = document.createElement('div');
     var img = new Image();
     img.src = data;
     img.style.width = '374px';
-    img.style.height = '500px';
+    img.style.height = '375px';
     img.style.transition = '1s all';
     img.style.position = 'fixed';
-    img.style.left = '-374px';
+    img.style.right = '-374px';
     img.style.bottom = 'calc(-50% + 450px)';
     img.style.zIndex = 999999;
 
     document.body.appendChild(img);
 
     window.setTimeout(function(){
-      img.style.left = 'calc(50% - 187px)';
+      img.style.right = 'calc(50% - 187px)';
     },50);
 
     window.setTimeout(function(){
-      img.style.left = 'calc(100% + 375px)';
+      img.style.right = 'calc(100% + 375px)';
     }, 2300);
     window.setTimeout(function(){
       img.parentNode.removeChild(img);
-      // shock.parentNode.removeChild(shock);
     }, 3300);
 
   };
@@ -45,7 +44,7 @@
     }
 
     if ( ck >= max ) {
-      bravo();
+      ghost();
       ck = 0;
     }
 
@@ -57,8 +56,8 @@
 
   };
 
-  var data = "./images/bravo.gif";
+  var data = "./images/ghost.gif"
 
-  init(data);
+  init(data)
 
 })(window);
