@@ -14,7 +14,7 @@
     img.src = data;
     img.style.width = '374px';
     img.style.height = '375px';
-    img.style.transition = '1s all';
+    img.style.transition = '6s all';
     img.style.position = 'fixed';
     img.style.right = '-374px';
     img.style.bottom = 'calc(-50% + 450px)';
@@ -28,10 +28,10 @@
 
     window.setTimeout(function(){
       img.style.right = 'calc(100% + 375px)';
-    }, 2300);
+    }, 4300);
     window.setTimeout(function(){
       img.parentNode.removeChild(img);
-    }, 3300);
+    }, 7300);
 
   };
 
