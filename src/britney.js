@@ -9,18 +9,18 @@
 
   "use strict";
 
-  // type 'koggy' on your keyboard
-  var key = [75,79,71,71,89];
+  // type 'britney' on your keyboard
+  var key = [66,82,73,84,78,69,89];
   var ck = 0;
   var max = key.length;
 
-  var koggy = function() {
+  var britney = function() {
 
     var shock = document.createElement('div');
     var img = new Image;
     img.src = data;
     img.style.width = '250px';
-    img.style.height = '149px';
+    img.style.height = '180px';
     img.style.transition = '1s all';
     img.style.position = 'fixed';
     img.style.left = 'calc(50% - 125px)';
@@ -78,7 +78,7 @@
     }
 
     if ( ck >= max ) {
-      koggy();
+      britney();
       ck = 0;
     }
 
@@ -90,7 +90,7 @@
 
   };
 
-  var data = './images/koggy.gif';
+  var data = './images/britney.gif';
 
     init(data);
 
