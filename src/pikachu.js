@@ -9,6 +9,7 @@
 
   "use strict";
 
+  // type 'pikachu' on your keyboard
   var key = [80,73,75,65,67,72,85];
   var ck = 0;
   var max = key.length;

@@ -2,23 +2,23 @@
 
   "use strict"
 
-  // type 'catrun' on your keyboard
-  let key = [67,65,84,82,85,78]
-  // let key = [67]
+  // type 'sonic' on your keyboard
+  // let key = [83,79,78,73,67]
+  let key = [83]
   let ck = 0
   let max = key.length
 
-  let catRun = function () {
+  let sonic = function () {
 
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
-    img.style.width = '450px'
-    img.style.height = '350px'
-    img.style.transition = '6s all linear'
+    img.style.width = '150px'
+    img.style.height = '150px'
+    img.style.transition = '5s all'
     img.style.position = 'fixed'
-    img.style.left = '-400px'
-    img.style.bottom = 'calc(-50% + 300px)'
+    img.style.left = '-200px'
+    img.style.bottom = 'calc(-50% + 320px)'
     img.style.zIndex = 999999
 
     document.body.appendChild(img)
@@ -33,7 +33,7 @@
 
     window.setTimeout(function(){
       img.parentNode.removeChild(img)
-    }, 6000)
+    }, 4300)
 
   }
 
@@ -46,7 +46,7 @@
     }
 
     if ( ck >= max ) {
-      catRun()
+      sonic()
       ck = 0
     }
 
@@ -56,7 +56,7 @@
     document.addEventListener('keyup', record)
   }
 
-  let data = './images/running-cat.gif'
+  let data = './images/sonic.gif'
 
   init(data)
 
