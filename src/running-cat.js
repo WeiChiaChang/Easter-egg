@@ -2,9 +2,9 @@
 
   "use strict"
 
-  // type 'pikarun' on your keyboard
-  let key = [80,73,75,65,82,85,78]
-  // let key = [80]
+  // type 'catrun' on your keyboard
+  let key = [67,65,84,82,85,78]
+  // let key = [67]
   let ck = 0
   let max = key.length
 
@@ -15,10 +15,10 @@
     img.src = data
     img.style.width = '450px'
     img.style.height = '350px'
-    img.style.transition = '4s all'
+    img.style.transition = '6s all linear'
     img.style.position = 'fixed'
     img.style.left = '-400px'
-    img.style.bottom = 'calc(-50% + 320px)'
+    img.style.bottom = 'calc(-50% + 300px)'
     img.style.zIndex = 999999
 
     document.body.appendChild(img)
@@ -33,7 +33,7 @@
 
     window.setTimeout(function(){
       img.parentNode.removeChild(img)
-    }, 4300)
+    }, 6000)
 
   }
 
@@ -56,7 +56,7 @@
     document.addEventListener('keyup', record)
   }
 
-  let data = './images/running-pikachu.gif'
+  let data = './images/running-cat.gif'
 
   init(data)
 
