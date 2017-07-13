@@ -3,8 +3,8 @@
   "use strict"
 
   // type 'sonic' on your keyboard
-  // let key = [83,79,78,73,67]
-  let key = [83]
+  let key = [83,79,78,73,67]
+  // let key = [83]
   let ck = 0
   let max = key.length
 
