@@ -123,3 +123,17 @@ doggy
 ```
 
 ![Doggy](https://i.imgur.com/aE3wMr6.gif)
+
+---
+
+## spongebob
+
+> Spongebob is your best friend
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'spongebob' in your browser -->
+spongebob
+```
+
+![Spongebob](https://i.imgur.com/gmGfyce.gif)
