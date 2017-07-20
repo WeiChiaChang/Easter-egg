@@ -90,7 +90,7 @@
 
   };
 
-  var data = '../images/britney.gif';
+  var data = './images/britney.gif';
 
     init(data);
 

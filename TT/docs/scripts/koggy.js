@@ -90,7 +90,7 @@
 
   };
 
-  var data = '../images/koggy.gif';
+  var data = './images/koggy.gif';
 
     init(data);
 

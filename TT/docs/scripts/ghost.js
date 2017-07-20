@@ -56,7 +56,7 @@
 
   };
 
-  var data = "../images/ghost.gif"
+  var data = "./images/ghost.gif"
 
   init(data)
 

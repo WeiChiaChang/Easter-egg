@@ -62,7 +62,7 @@
     document.addEventListener('keyup', record)
   };
 
-  let data = '../images/bravo.gif'
+  let data = './images/bravo.gif'
 
   init(data)
 

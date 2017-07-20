@@ -1446,7 +1446,7 @@
 
   };
 
-  var data = '../images/pikachu.gif'
+  var data = './images/pikachu.gif'
 
     init(data);
 

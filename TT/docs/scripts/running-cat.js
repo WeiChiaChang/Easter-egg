@@ -56,7 +56,7 @@
     document.addEventListener('keyup', record)
   }
 
-  let data = '../images/running-cat.gif'
+  let data = './images/running-cat.gif'
 
   init(data)
 

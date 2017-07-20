@@ -109,3 +109,17 @@ sonic
 ```
 
 ![Sonic](https://i.imgur.com/zrqaPGm.gif)
+
+---
+
+## doggy
+
+> Classic Super Doggy with vivid animation
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'doggy' in your browser -->
+doggy
+```
+
+![Doggy](https://i.imgur.com/aE3wMr6.gif)
