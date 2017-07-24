@@ -151,3 +151,17 @@ gun
 ```
 
 ![Gun](https://i.imgur.com/cz8iq8n.gif)
+
+---
+
+## money
+
+> Pay money to my pain
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'money' in your browser -->
+money
+```
+
+![Money](https://i.imgur.com/Q2W7OXx.gif)
