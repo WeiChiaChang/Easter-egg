@@ -30,7 +30,7 @@
     },50)
 
     window.setTimeout(function(){
-      img.style.left = 'calc(100% + 375px)'
+      img.style.left = 'calc(120% + 375px)'
 
       // $('body').css('background', 'transparent')
 
