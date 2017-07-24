@@ -150,4 +150,4 @@ spongebob
 gun
 ```
 
-![Gun](https://i.imgur.com/gmGfyce.gif)
+![Gun](https://i.imgur.com/cz8iq8n.gif)
