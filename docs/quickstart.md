@@ -137,3 +137,17 @@ spongebob
 ```
 
 ![Spongebob](https://i.imgur.com/gmGfyce.gif)
+
+---
+
+## gun
+
+> Where is your gun?
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'gun' in your browser -->
+gun
+```
+
+![Gun](https://i.imgur.com/gmGfyce.gif)
