@@ -7,9 +7,10 @@
 Original Source: Thanks to [Richard Denton](https://codepen.io/isdampe/pen/OXYZZO)!
 
 
-#### License - MIT license
-
+## License
 ---
+
+(The MIT License)
 
 Copyright (c) 2017 - WeiChiaChang - https://codepen.io/isdampe/pen/OXYZZO
 
