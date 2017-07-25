@@ -8,7 +8,6 @@ Original Source: Thanks to [Richard Denton](https://codepen.io/isdampe/pen/OXYZZ
 
 
 ## License
----
 
 (The MIT License)
 
