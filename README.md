@@ -6,6 +6,13 @@
 
 Original Source: Thanks to [Richard Denton](https://codepen.io/isdampe/pen/OXYZZO)!
 
+## Installing / Getting started
+
+A quick introduction of how to use fitlife, first of all:
+
+```
+git clone https://github.com/Prenetics/fitLifeWeb.git
+```
 
 ## License
 
