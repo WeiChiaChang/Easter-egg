@@ -8,10 +8,10 @@ Original Source: Thanks to [Richard Denton](https://codepen.io/isdampe/pen/OXYZZ
 
 ## Installing / Getting started
 
-A quick introduction of how to use fitlife, first of all:
+A quick intro of how to use easter-egg, first of all:
 
 ```
-git clone https://github.com/Prenetics/fitLifeWeb.git
+npm install easter-egg-collection --save-dev
 ```
 
 ## License
