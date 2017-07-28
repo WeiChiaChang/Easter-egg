@@ -67,7 +67,7 @@
 
   init(data)
 
-})(window)
+})(window);
 
 
 // britney
@@ -224,7 +224,7 @@
 
   init(data)
 
-})(window)
+})(window);
 
 // ghost
 (function(window){
@@ -360,7 +360,7 @@
 
   init(data)
 
-})(window)
+})(window);
 
 // koggy
 (function(window){
@@ -2031,7 +2031,7 @@
 
   init(data)
 
-})(window)
+})(window);
 
 // running-pikachu
 (function(window){
@@ -2096,7 +2096,7 @@
 
   init(data)
 
-})(window)
+})(window);
 
 // sonic
 (function(window){
@@ -2161,7 +2161,7 @@
 
   init(data)
 
-})(window)
+})(window);
 
 // spongebob
 (function(window){
