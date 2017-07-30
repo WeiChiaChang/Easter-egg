@@ -165,3 +165,17 @@ money
 ```
 
 ![Money](https://i.imgur.com/Q2W7OXx.gif)
+
+---
+
+## homer
+
+> Wise man Homer
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'homer' in your browser -->
+homer
+```
+
+![Homer](https://i.imgur.com/fzJcnSD.gif)
