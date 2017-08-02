@@ -192,4 +192,4 @@ homer
 dog
 ```
 
-![Dog](https://i.imgur.com/fzJcnSD.gif)
+![Dog](https://i.imgur.com/QDi8sbM.gif)
