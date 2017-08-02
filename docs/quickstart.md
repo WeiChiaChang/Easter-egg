@@ -179,3 +179,17 @@ homer
 ```
 
 ![Homer](https://i.imgur.com/fzJcnSD.gif)
+
+---
+
+## dog
+
+> Dogs are human best friends
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'dog' in your browser -->
+dog
+```
+
+![Dog](https://i.imgur.com/fzJcnSD.gif)
