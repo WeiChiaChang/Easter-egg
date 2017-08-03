@@ -193,3 +193,17 @@ dog
 ```
 
 ![Dog](https://i.imgur.com/QDi8sbM.gif)
+
+---
+
+## bird
+
+> Stupid birds fly slowly
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'bird' in your browser -->
+bird
+```
+
+![Bird](https://i.imgur.com/aAsrMKo.gif)
