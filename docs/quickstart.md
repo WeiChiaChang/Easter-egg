@@ -207,3 +207,17 @@ bird
 ```
 
 ![Bird](https://i.imgur.com/aAsrMKo.gif)
+
+---
+
+## piqiu
+
+> A piqiu a day keeps worries away
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'piqiu' in your browser -->
+piqiu
+```
+
+![Piqiu](https://i.imgur.com/3OVA8hx.gif)
