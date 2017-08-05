@@ -221,3 +221,17 @@ piqiu
 ```
 
 ![Piqiu](https://i.imgur.com/3OVA8hx.gif)
+
+---
+
+## lol
+
+> Haha, you're funny
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'lol' in your browser -->
+lol
+```
+
+![Lol](https://i.imgur.com/JzT4AaR.gif)
