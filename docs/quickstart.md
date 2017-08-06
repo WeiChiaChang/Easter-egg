@@ -235,3 +235,17 @@ lol
 ```
 
 ![Lol](https://i.imgur.com/JzT4AaR.gif)
+
+---
+
+## ohhh
+
+> Mordecai & Rigby with OHHHHHHHHHHHHHH sound
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'ohhh' in your browser -->
+Ohhh
+```
+
+![Ohhh](https://i.imgur.com/3f70bsr.gif)
