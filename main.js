@@ -2527,7 +2527,7 @@ function ohhh () {
 
     window.setTimeout(function(){
       img.style.bottom = '0px';
-    }, 0);
+    }, 50);
 
     window.setTimeout(function(){
       img.style.bottom = '-300px';
