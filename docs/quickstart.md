@@ -249,3 +249,17 @@ Ohhh
 ```
 
 ![Ohhh](https://i.imgur.com/3f70bsr.gif)
+
+---
+
+## nyancat
+
+> Nyan nyan nyan nyan nyan nyan nyan nyan
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'nyancat' in your browser -->
+nyancat
+```
+
+![Nyancat](https://i.imgur.com/WcTBXUW.gif)
