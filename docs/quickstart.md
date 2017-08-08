@@ -1,5 +1,19 @@
 # Quick Start
 
+## salamander
+
+> Are salamanders dangerous to humans?
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'salamander' in your browser -->
+salamander
+```
+
+![Salamander](https://i.imgur.com/QEkFN7W.gif)
+
+---
+
 ## pikachu
 
 > A pikachu will show up from the bottom with ligntning sound
