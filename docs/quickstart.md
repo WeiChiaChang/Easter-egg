@@ -14,6 +14,20 @@ salamander
 
 ---
 
+## airguitar
+
+> Just be like a guitar hero dude
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'airguitar' in your browser -->
+airguitar
+```
+
+![Airguitar](https://i.imgur.com/JSgV7v5.gif)
+
+---
+
 ## pikachu
 
 > A pikachu will show up from the bottom with ligntning sound
