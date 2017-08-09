@@ -1,5 +1,19 @@
 # Quick Start
 
+## dragon
+
+> If you can't take the heat, don't tickle the dragon
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'dragon' in your browser -->
+dragon
+```
+
+![Dragon](https://i.imgur.com/jUlebex.gif)
+
+---
+
 ## salamander
 
 > Are salamanders dangerous to humans?
