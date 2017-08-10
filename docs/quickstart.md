@@ -1,5 +1,19 @@
 # Quick Start
 
+## psyduck
+
+> Psyduck with Big Bang 💣
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'psyduck' in your browser -->
+psyduck
+```
+
+![Psyduck](https://i.imgur.com/Djl4oID.gif)
+
+---
+
 ## dragon
 
 > If you can't take the heat, don't tickle the dragon
