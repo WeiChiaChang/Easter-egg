@@ -1,5 +1,19 @@
 # Quick Start
 
+## piggy
+
+> Here comes wild boar knight 🐷
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'piggy' in your browser -->
+piggy
+```
+
+![Piggy](https://i.imgur.com/RZGnd1b.gif)
+
+---
+
 ## psyduck
 
 > Psyduck with Big Bang 💣
