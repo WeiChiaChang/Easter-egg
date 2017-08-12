@@ -1,5 +1,19 @@
 # Quick Start
 
+## sensei
+
+> wa ka ri ma shi ta 🏫
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'sensei' in your browser -->
+sensei
+```
+
+![Sensei](https://i.imgur.com/FWQgtO9.gif)
+
+---
+
 ## piggy
 
 > Here comes wild boar knight 🐷
