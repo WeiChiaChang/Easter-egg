@@ -1,5 +1,19 @@
 # Quick Start
 
+## rabbit
+
+> Maybe She's Born With It, Maybe It's Rabbit 🐇
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'rabbit' in your browser -->
+rabbit
+```
+
+![Rabbit](https://i.imgur.com/RlFylRn.gif)
+
+---
+
 ## sensei
 
 > wa ka ri ma shi ta 🏫
