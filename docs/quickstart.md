@@ -1,5 +1,19 @@
 # Quick Start
 
+## joker
+
+> I can't wait to show you my toys 🃏
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'joker' in your browser -->
+joker
+```
+
+![Joker](https://i.imgur.com/XYq7GTX.gif)
+
+---
+
 ## rabbit
 
 > Maybe She's Born With It, Maybe It's Rabbit 🐇
