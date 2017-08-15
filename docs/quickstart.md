@@ -1,5 +1,17 @@
 # Quick Start
 
+## mario
+
+> Life is a game, kid! It all depends on how you play! 🎮
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'mario' in your browser -->
+mario
+```
+
+![Mario](https://i.imgur.com/entKupA.gif)
+
 ## joker
 
 > I can't wait to show you my toys 🃏
