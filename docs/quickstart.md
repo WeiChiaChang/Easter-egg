@@ -1,5 +1,19 @@
 # Quick Start
 
+## fox
+
+> The fox changes his fur but not his habits 🐺
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'fox' in your browser -->
+fox
+```
+
+![Fox](https://i.imgur.com/OpdJKaM.gif)
+
+---
+
 ## mario
 
 > Life is a game, kid! It all depends on how you play! 🎮
@@ -11,6 +25,8 @@ mario
 ```
 
 ![Mario](https://i.imgur.com/entKupA.gif)
+
+---
 
 ## joker
 
