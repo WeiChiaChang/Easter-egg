@@ -1,5 +1,19 @@
 # Quick Start
 
+## jump
+
+> The only exercise I excel at is jumping to conclusions 🏐
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'jump' in your browser -->
+jump
+```
+
+![Jump](https://i.imgur.com/zSTGofL.gif)
+
+---
+
 ## fox
 
 > The fox changes his fur but not his habits 🐺
