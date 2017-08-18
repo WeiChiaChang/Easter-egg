@@ -1,5 +1,19 @@
 # Quick Start
 
+## tank
+
+> If the tanks succeed, then victory follows ⤵
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'tank' in your browser -->
+tank
+```
+
+![Tank](https://i.imgur.com/6i9GRUQ.gif)
+
+---
+
 ## jump
 
 > The only exercise I excel at is jumping to conclusions 🏐
