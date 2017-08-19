@@ -1,5 +1,19 @@
 # Quick Start
 
+## winner
+
+> Without losers, where would the winners be? 🏆
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'winner' in your browser -->
+winner
+```
+
+![Winner](https://i.imgur.com/aFJFC6W.gif)
+
+---
+
 ## tank
 
 > If the tanks succeed, then victory follows ⤵
