@@ -1,5 +1,19 @@
 # Quick Start
 
+## handsome
+
+> I'm a handsome man with a charming personality 😎
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'handsome' in your browser -->
+handsome
+```
+
+![Handsome](https://i.imgur.com/pA30jqZ.gif)
+
+---
+
 ## winner
 
 > Without losers, where would the winners be? 🏆
