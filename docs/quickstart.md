@@ -1,5 +1,19 @@
 # Quick Start
 
+## penguin
+
+> Easy, breezy, beautiful penguin 🐧
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'penguin' in your browser -->
+penguin
+```
+
+![Penguin](https://i.imgur.com/PFT49WH.gif)
+
+---
+
 ## handsome
 
 > I'm a handsome man with a charming personality 😎
