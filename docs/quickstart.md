@@ -1,5 +1,19 @@
 # Quick Start
 
+## swim
+
+> H2O = 2 parts heart, one part obsession 🏊
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'swim' in your browser -->
+swim
+```
+
+![Swim](https://i.imgur.com/7CKafBS.gif)
+
+---
+
 ## penguin
 
 > Easy, breezy, beautiful penguin 🐧
