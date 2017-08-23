@@ -1,5 +1,19 @@
 # Quick Start
 
+## thank you
+
+> You can do anything, but not everything 🙏
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'thankyou' in your browser -->
+thank you
+```
+
+![Thank You](https://i.imgur.com/PXVdtZG.gif)
+
+---
+
 ## swim
 
 > H2O = 2 parts heart, one part obsession 🏊
