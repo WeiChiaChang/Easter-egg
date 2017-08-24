@@ -1,5 +1,19 @@
 # Quick Start
 
+## earth
+
+> Save earth to save life 🌎
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'earth' in your browser -->
+earth
+```
+
+![Earth](https://i.imgur.com/lu11Vnk.gif)
+
+---
+
 ## thank you
 
 > You can do anything, but not everything 🙏
