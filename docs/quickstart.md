@@ -1,5 +1,19 @@
 # Quick Start
 
+## snorlax
+
+> Just do it, later 😆
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'snorlax' in your browser -->
+snorlax
+```
+
+![Snorlax](https://i.imgur.com/ABegxEv.gif)
+
+___
+
 ## fly
 
 > I can't stop moving. I'm like this weird insect. I can't sit still in real life 🐛
