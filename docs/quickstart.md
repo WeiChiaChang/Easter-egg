@@ -1,5 +1,19 @@
 # Quick Start
 
+## board
+
+> Skate or die 👾
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'board' in your browser -->
+board
+```
+
+![Board](https://i.imgur.com/ewNWDS9.gif)
+
+---
+
 ## snorlax
 
 > Just do it, later 😆
