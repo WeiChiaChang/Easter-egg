@@ -1,5 +1,19 @@
 # Quick Start
 
+## haters
+
+> When there's so many haters and negative things, I really don't care 🤔
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'haters' in your browser -->
+haters
+```
+
+![Haters](https://i.imgur.com/plKHiwS.gif)
+
+---
+
 ## board
 
 > Skate or die 👾
