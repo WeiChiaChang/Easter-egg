@@ -1,5 +1,19 @@
 # Quick Start
 
+## onmyway
+
+> Stressed? Why not walk it off 🚶
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'onmyway' in your browser -->
+onmyway
+```
+
+![Onmyway](https://i.imgur.com/q0A5FzR.gif)
+
+---
+
 ## haters
 
 > When there's so many haters and negative things, I really don't care 🤔
