@@ -1,5 +1,19 @@
 # Quick Start
 
+## no
+
+> No smoking 🚬
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'no' in your browser -->
+no
+```
+
+![No](https://i.imgur.com/lZK6DiW.gif)
+
+---
+
 ## onmyway
 
 > Stressed? Why not walk it off 🚶
