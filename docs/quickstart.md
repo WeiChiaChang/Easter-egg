@@ -1,5 +1,19 @@
 # Quick Start
 
+## kirby
+
+> "This grass feels funny," Kirby thought. "It feels like... pants." ༼ つ ◕_◕ ༽つ
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'kirby' in your browser -->
+kirby
+```
+
+![Kirby](https://i.imgur.com/DnFQ1Gp.gif)
+
+---
+
 ## no
 
 > No smoking 🚬
