@@ -1,5 +1,19 @@
 # Quick Start
 
+## hangover
+
+> What in the world is a hangover cure? 🍷
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'hangover' in your browser -->
+hangover
+```
+
+![Hangover](https://i.imgur.com/0IXYKXg.gif)
+
+---
+
 ## kirby
 
 > "This grass feels funny," Kirby thought. "It feels like... pants." ༼ つ ◕_◕ ༽つ
