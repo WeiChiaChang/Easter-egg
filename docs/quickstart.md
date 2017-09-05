@@ -1,5 +1,19 @@
 # Quick Start
 
+## ufo
+
+> From 1961 to 1965 Barney and I had not seen another UFO 👽
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'ufo' in your browser -->
+ufo
+```
+
+![Ufo](https://i.imgur.com/AkFfIv8.gif)
+
+---
+
 ## walk
 
 > I am a slow walker, but I never walk back 🚶
