@@ -1,5 +1,19 @@
 # Quick Start
 
+## pie
+
+> So the pie isn't perfect? Cut it into wedges. Stay in control, and never panic 🍕
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'pie' in your browser -->
+pie
+```
+
+![Pie](https://i.imgur.com/YnR31FU.gif)
+
+---
+
 ## ufo
 
 > From 1961 to 1965 Barney and I had not seen another UFO 👽
