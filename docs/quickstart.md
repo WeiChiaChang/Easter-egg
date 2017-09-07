@@ -1,5 +1,19 @@
 # Quick Start
 
+## pokeball
+
+> Keep Calm And Go 🚀
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'pokeball' in your browser -->
+pokeball
+```
+
+![Pokeball](https://i.imgur.com/zUErX2s.gif)
+
+---
+
 ## pie
 
 > So the pie isn't perfect? Cut it into wedges. Stay in control, and never panic 🍕
