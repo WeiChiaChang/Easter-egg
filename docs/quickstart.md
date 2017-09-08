@@ -1,5 +1,19 @@
 # Quick Start
 
+## hippo
+
+> You Deserve A Hippo Today 😎
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'hippo' in your browser -->
+hippo
+```
+
+![Hippo](https://i.imgur.com/zz9G7i6.gif)
+
+---
+
 ## pokeball
 
 > Keep Calm And Go 🚀
