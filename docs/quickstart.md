@@ -1,5 +1,19 @@
 # Quick Start
 
+## hiphop
+
+> That's what hip-hop is: It's sociology and English put to a beat, you know 🎶
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'hiphop' in your browser -->
+hiphop
+```
+
+![Hiphop](https://i.imgur.com/JUHDJ0s.gif)
+
+---
+
 ## hippo
 
 > You Deserve A Hippo Today 😎
