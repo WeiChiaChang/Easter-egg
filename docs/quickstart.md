@@ -1,5 +1,19 @@
 # Quick Start
 
+## robot
+
+> We're fascinated with robots because they are reflections of ourselves 🤖
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'robot' in your browser -->
+robot
+```
+
+![Robot](https://i.imgur.com/tBge8mr.gif)
+
+---
+
 ## hiphop
 
 > That's what hip-hop is: It's sociology and English put to a beat, you know 🎶
