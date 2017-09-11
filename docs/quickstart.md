@@ -1,5 +1,19 @@
 # Quick Start
 
+## bat
+
+> You gotta keep the ball off the fat part of the bat ⚰
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'bat' in your browser -->
+bat
+```
+
+![Bat](https://i.imgur.com/tBge8mr.gif)
+
+---
+
 ## robot
 
 > We're fascinated with robots because they are reflections of ourselves 🤖
