@@ -1,5 +1,19 @@
 # Quick Start
 
+## travel
+
+> Wherever you go, go with all your heart 🌇
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'travel' in your browser -->
+travel
+```
+
+![Travel](https://i.imgur.com/Rhm6vpg.gif)
+
+---
+
 ## bat
 
 > You gotta keep the ball off the fat part of the bat ⚰
