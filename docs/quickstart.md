@@ -1,5 +1,19 @@
 # Quick Start
 
+## haha
+
+> Behind every great man is a woman rolling her eyes ☺️
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'haha' in your browser -->
+haha
+```
+
+![Haha](https://i.imgur.com/n8CnIt2.gif)
+
+---
+
 ## travel
 
 > Wherever you go, go with all your heart 🌇
