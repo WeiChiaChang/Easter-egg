@@ -1,5 +1,18 @@
 # Quick Start
 
+## kumamon
+
+> But people who really know me, know that I am not a bad boy at heart... I am a big teddy bear 🐻
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'kumamon' in your browser -->
+kumamon
+```
+
+![Kumamon](https://i.imgur.com/yzM5z1R.gif)
+
+---
 ## haha
 
 > Behind every great man is a woman rolling her eyes ☺️
