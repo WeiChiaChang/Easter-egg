@@ -1,5 +1,18 @@
 # Quick Start
 
+## unicorn
+
+> I wish I were a unicorn, so I could stab idiots with my head 🦄
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'unicorn' in your browser -->
+unicorn
+```
+
+![Unicorn](https://i.imgur.com/ZEVcTFq.gif)
+
+---
 ## kumamon
 
 > But people who really know me, know that I am not a bad boy at heart... I am a big teddy bear 🐻
