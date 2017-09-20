@@ -1,5 +1,19 @@
 # Quick Start
 
+
+## wink
+
+> Wink and shut their apprehensions up 😜
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'wink' in your browser -->
+wink
+```
+
+![Wink](https://i.imgur.com/N4mPiWW.gif)
+
+---
 ## unicorn
 
 > I wish I were a unicorn, so I could stab idiots with my head 🦄
