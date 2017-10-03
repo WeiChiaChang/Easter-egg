@@ -1,5 +1,18 @@
 # Quick Start
 
+## hi
+
+> Set your goals high, and don't stop till you get there 👋
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'hi' in your browser -->
+hi
+```
+
+![Hi](https://i.imgur.com/gOuUuKp.gif)
+
+---
 
 ## wink
 
