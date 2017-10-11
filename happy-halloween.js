@@ -6,6 +6,24 @@ var zombie_data = 'https://weichiachang.github.io/happy-halloween/images/zombie.
 
 var halloween_background = document.createElement('div');
 
+function preloadImg (image) {
+  var img = new Image();
+  img.src = image;
+}
+  
+function preloadAudio (audio) {
+  var voice = new Audio();
+  voice.src = audio;
+}
+  
+preloadImg('https://weichiachang.github.io/happy-halloween/images/pumpkin.gif');
+preloadImg('https://weichiachang.github.io/happy-halloween/images/hatghost.gif');
+preloadImg('https://weichiachang.github.io/happy-halloween/images/trickortreat.gif');
+preloadImg('https://weichiachang.github.io/happy-halloween/images/littleboy.gif');
+preloadImg('https://weichiachang.github.io/happy-halloween/images/zombie.gif');
+preloadImg('https://weichiachang.github.io/happy-halloween/images/background.png');
+preloadAudio('https://weichiachang.github.io/happy-halloween/images/halloween.mp3');
+
 var pumpkin = function () {
   var shock = document.createElement('div')
   var img = new Image()
