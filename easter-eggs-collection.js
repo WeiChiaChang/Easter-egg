@@ -11,6 +11,7 @@ function bravo () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '374px'
     img.style.height = '500px'
     img.style.transition = '1s all'
@@ -79,6 +80,7 @@ function britney () {
     var shock = document.createElement('div');
     var img = new Image;
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '250px';
     img.style.height = '180px';
     img.style.transition = '1s all';
@@ -168,6 +170,7 @@ function doggy () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '450px'
     img.style.height = '350px'
     img.style.transition = '4s all linear'
@@ -229,6 +232,7 @@ function ghost () {
     var shock = document.createElement('div');
     var img = new Image();
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '374px';
     img.style.height = '375px';
     img.style.transition = '6s all';
@@ -291,6 +295,7 @@ function gun () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '600px'
     img.style.height = '500px'
     img.style.transition = '1s all'
@@ -359,6 +364,7 @@ function koggy () {
     var shock = document.createElement('div');
     var img = new Image;
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '250px';
     img.style.height = '149px';
     img.style.transition = '1s all';
@@ -449,6 +455,7 @@ function money () {
     var shock = document.createElement('div');
     var img = new Image();
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '374px';
     img.style.height = '375px';
     img.style.transition = '6s all';
@@ -511,6 +518,7 @@ function pikachu () {
     var shock = document.createElement('div');
     var img = new Image;
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '250px';
     img.style.height = '149px';
     img.style.transition = '1s all';
@@ -1957,6 +1965,7 @@ function runningCat () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '450px'
     img.style.height = '350px'
     img.style.transition = '6s all linear'
@@ -2019,6 +2028,7 @@ function runningPikachu () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '450px'
     img.style.height = '350px'
     img.style.transition = '4s all'
@@ -2081,6 +2091,7 @@ function sonic () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '150px'
     img.style.height = '150px'
     img.style.transition = '5s all'
@@ -2143,6 +2154,7 @@ function spongebob () {
     var shock = document.createElement('div');
     var img = new Image();
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '374px';
     img.style.height = '375px';
     img.style.transition = '6s all';
@@ -2205,6 +2217,7 @@ function homer () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '350px'
     img.style.height = '350px'
     img.style.transition = '4s all'
@@ -2266,6 +2279,7 @@ function dog () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '1050px'
     img.style.height = '300px'
     img.style.transition = '7s all'
@@ -2327,6 +2341,7 @@ function bird () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '400px'
     img.style.height = '350px'
     img.style.transition = '6s all linear'
@@ -2388,6 +2403,7 @@ function piqiu () {
     var shock = document.createElement('div');
     var img = new Image();
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '374px';
     img.style.height = '375px';
     img.style.transition = '13s all';
@@ -2451,6 +2467,7 @@ function lol () {
     var shock = document.createElement('div');
     var img = new Image;
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '240px';
     img.style.height = '200px';
     img.style.transition = '1s all';
@@ -2515,6 +2532,7 @@ function ohhh () {
     var shock = document.createElement('div');
     var img = new Image;
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '400px';
     img.style.height = '300px';
     img.style.transition = '1s all';
@@ -2580,6 +2598,7 @@ function nyancat () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '230px'
     img.style.height = '150px'
     img.style.transition = '6s all linear'
@@ -2641,6 +2660,7 @@ function salamander () {
     var shock = document.createElement('div');
     var img = new Image();
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '374px';
     img.style.height = '375px';
     img.style.transition = '13s all';
@@ -2703,6 +2723,7 @@ function airguitar () {
     var shock = document.createElement('div');
     var img = new Image;
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '450px';
     img.style.height = '320px';
     img.style.transition = '1s all';
@@ -2764,6 +2785,7 @@ function dragon () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '350px'
     img.style.height = '350px'
     img.style.transition = '8s all linear'
@@ -2825,6 +2847,7 @@ function psyduck () {
     var shock = document.createElement('div');
     var img = new Image;
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '500px';
     img.style.height = '500px';
     img.style.transition = '1s all';
@@ -2887,6 +2910,7 @@ function piggy () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '400px'
     img.style.height = '350px'
     img.style.transition = '6s all linear'
@@ -2948,6 +2972,7 @@ function sensei () {
     var shock = document.createElement('div');
     var img = new Image;
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '500px';
     img.style.height = '400px';
     img.style.transition = '1s all';
@@ -3009,6 +3034,7 @@ function rabbit () {
     var shock = document.createElement('div');
     var img = new Image();
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '374px';
     img.style.height = '375px';
     img.style.transition = '6s all';
@@ -3071,6 +3097,7 @@ function joker () {
     var shock = document.createElement('div');
     var img = new Image();
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '374px';
     img.style.height = '375px';
     img.style.transition = '13s all';
@@ -3134,6 +3161,7 @@ function mario () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '350px'
     img.style.height = '300px'
     img.style.transition = '6s all linear'
@@ -3195,6 +3223,7 @@ function fox () {
     var shock = document.createElement('div');
     var img = new Image();
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '500px';
     img.style.height = '400px';
     img.style.transition = '30s all';
@@ -3258,6 +3287,7 @@ function jump () {
     var shock = document.createElement('div');
     var img = new Image;
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '350px';
     img.style.height = '300px';
     img.style.transition = '1s all';
@@ -3319,6 +3349,7 @@ function tank () {
     var shock = document.createElement('div');
     var img = new Image();
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '374px';
     img.style.height = '375px';
     img.style.transition = '13s all';
@@ -3382,6 +3413,7 @@ function winner () {
     var shock = document.createElement('div');
     var img = new Image;
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '450px';
     img.style.height = '400px';
     img.style.transition = '1s all';
@@ -3443,6 +3475,7 @@ function handsome () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '350px'
     img.style.height = '350px'
     img.style.transition = '6s all linear'
@@ -3504,6 +3537,7 @@ function penguin () {
     var shock = document.createElement('div');
     var img = new Image();
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '374px';
     img.style.height = '375px';
     img.style.transition = '13s all';
@@ -3568,6 +3602,7 @@ function swim () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '400px'
     img.style.height = '350px'
     img.style.transition = '6s all linear'
@@ -3628,6 +3663,7 @@ function thankyou () {
     var shock = document.createElement('div');
     var img = new Image;
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '600px';
     img.style.height = '300px';
     img.style.transition = '1s all';
@@ -3689,6 +3725,7 @@ function earth () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '350px'
     img.style.height = '350px'
     img.style.transition = '6s all linear'
@@ -3750,6 +3787,7 @@ function fly () {
     var shock = document.createElement('div');
     var img = new Image();
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '500px';
     img.style.height = '375px';
     img.style.transition = '6s all';
@@ -3812,6 +3850,7 @@ function snorlax () {
     var shock = document.createElement('div');
     var img = new Image();
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '374px';
     img.style.height = '375px';
     img.style.transition = '13s all';
@@ -3875,6 +3914,7 @@ function board () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '350px'
     img.style.height = '350px'
     img.style.transition = '6s all linear'
@@ -3936,6 +3976,7 @@ function haters () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '400px'
     img.style.height = '350px'
     img.style.transition = '8s all linear'
@@ -3998,6 +4039,7 @@ function onmyway () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '400px'
     img.style.height = '350px'
     img.style.transition = '8s all linear'
@@ -4060,6 +4102,7 @@ function no () {
     var shock = document.createElement('div');
     var img = new Image;
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '500px';
     img.style.height = '500px';
     img.style.transition = '1s all';
@@ -4121,6 +4164,7 @@ function kirby () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '350px'
     img.style.height = '300px'
     img.style.transition = '6s all linear'
@@ -4182,6 +4226,7 @@ function hangover () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '400px'
     img.style.height = '350px'
     img.style.transition = '8s all linear'
@@ -4244,6 +4289,7 @@ function balloon () {
     var shock = document.createElement('div');
     var img = new Image();
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '300px';
     img.style.height = '600px';
     img.style.transition = '13s all';
@@ -4307,6 +4353,7 @@ function cool () {
     var shock = document.createElement('div');
     var img = new Image;
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '400px';
     img.style.height = '400px';
     img.style.transition = '1s all';
@@ -4367,6 +4414,7 @@ function walk () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '350px'
     img.style.height = '350px'
     img.style.transition = '8s all linear'
@@ -4428,6 +4476,7 @@ function ufo () {
     var shock = document.createElement('div');
     var img = new Image();
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '374px';
     img.style.height = '375px';
     img.style.transition = '13s all';
@@ -4491,6 +4540,7 @@ function pie () {
     var shock = document.createElement('div');
     var img = new Image();
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '400px';
     img.style.height = '375px';
     img.style.transition = '13s all';
@@ -4554,6 +4604,7 @@ function pokeball () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '500px'
     img.style.height = '350px'
     img.style.transition = '8s all linear'
@@ -4615,6 +4666,7 @@ function hippo () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '300px'
     img.style.height = '350px'
     img.style.transition = '8s all linear'
@@ -4676,6 +4728,7 @@ function hiphop () {
     var shock = document.createElement('div');
     var img = new Image();
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '374px';
     img.style.height = '375px';
     img.style.transition = '20s all';
@@ -4738,6 +4791,7 @@ function robot () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '350px'
     img.style.height = '350px'
     img.style.transition = '8s all linear'
@@ -4800,6 +4854,7 @@ function bat () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '400px'
     img.style.height = '350px'
     img.style.transition = '8s all linear'
@@ -4862,6 +4917,7 @@ function travel () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = data
+    img.style.pointerEvents = "none";
     img.style.width = '400px'
     img.style.height = '350px'
     img.style.transition = '8s all linear'
@@ -4924,6 +4980,7 @@ function haha () {
     var shock = document.createElement('div');
     var img = new Image();
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '400px';
     img.style.height = '375px';
     img.style.transition = '13s all';
@@ -4981,12 +5038,13 @@ function kumamon () {
   var key = [75,85,77,65,77,79,78];
   var ck = 0;
   var max = key.length;
-  
+
   var kumamon = function() {
-  
+
     var shock = document.createElement('div');
     var img = new Image;
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '400px';
     img.style.height = '500px';
     img.style.transition = '10s all';
@@ -4994,13 +5052,13 @@ function kumamon () {
     img.style.left = 'calc(50% - 200px)';
     img.style.bottom = '-200px';
     img.style.zIndex = 999999;
-  
+
     document.body.appendChild(img);
-  
+
     window.setTimeout(function(){
       img.style.bottom = '0px';
     },30);
-  
+
     window.setTimeout(function(){
       img.style.bottom = '-600px';
     }, 18300);
@@ -5008,46 +5066,47 @@ function kumamon () {
       img.parentNode.removeChild(img);
       shock.parentNode.removeChild(shock);
     }, 30400);
-  
+
   };
-  
+
   var record = function(e) {
-  
+
     if ( e.which === key[ck] ) {
       ck++;
     } else {
       ck = 0;
     }
-  
+
     if ( ck >= max ) {
       kumamon();
       ck = 0;
     }
-  
+
   };
-  
+
   var init = function(data) {
     document.addEventListener('keyup', record);
   };
-  
+
   var data = 'https://weichiachang.github.io/easter-eggs-mobile/images/kumamon.gif';
-  
+
   init(data);
 }
 
 function unicorn () {
   "use strict";
-  
+
     // type 'unicorn' on your keyboard
     var key = [85,78,73,67,79,82,78];
     var ck = 0;
     var max = key.length;
-  
+
     var unicorn = function() {
-  
+
       var shock = document.createElement('div');
       var img = new Image();
       img.src = data;
+      img.style.pointerEvents = "none";
       img.style.width = '375px';
       img.style.height = '375px';
       img.style.transition = '13s all';
@@ -5056,62 +5115,63 @@ function unicorn () {
       // img.style.bottom = 'calc(-50% + 280px)';
       img.style.top= '100px';
       img.style.zIndex = 999999;
-  
+
       document.body.appendChild(img);
-  
+
       window.setTimeout(function(){
         img.style.right = 'calc(100% + 500px)';
       }, 50);
-  
+
       // window.setTimeout(function(){
       //   img.style.right = 'calc(100% + 375px)';
       // }, 4500);
-  
+
       window.setTimeout(function(){
         img.parentNode.removeChild(img);
       }, 10300);
-  
+
     };
-  
+
     var record = function(e) {
-  
+
       if ( e.which === key[ck] ) {
         ck++;
       } else {
         ck = 0;
       }
-  
+
       if ( ck >= max ) {
         unicorn();
         ck = 0;
       }
-  
+
     };
-  
+
     var init = function(data) {
-  
+
       document.addEventListener('keyup', record);
-  
+
     };
-  
+
     var data = "https://weichiachang.github.io/easter-eggs-mobile/images/unicorn.gif"
-  
+
     init(data)
 }
 
 function wink () {
   "use strict";
-  
+
     // type 'wink' on your keyboard
     var key = [87,73,78,75];
     var ck = 0;
     var max = key.length;
-  
+
     var wink = function() {
-  
+
       var shock = document.createElement('div');
       var img = new Image;
       img.src = data;
+      img.style.pointerEvents = "none";
       img.style.width = '300px';
       img.style.height = '300px';
       img.style.transition = '1s all';
@@ -5119,13 +5179,13 @@ function wink () {
       img.style.left = 'calc(50% - 300px)';
       img.style.bottom = '-600px';
       img.style.zIndex = 999999;
-  
+
       document.body.appendChild(img);
-  
+
       window.setTimeout(function(){
         img.style.bottom = '0px';
       },30);
-  
+
       window.setTimeout(function(){
         img.style.bottom = '-600px';
       }, 4300);
@@ -5133,46 +5193,47 @@ function wink () {
         img.parentNode.removeChild(img);
         shock.parentNode.removeChild(shock);
       }, 5400);
-  
+
     };
-  
+
     var record = function(e) {
-  
+
       if ( e.which === key[ck] ) {
         ck++;
       } else {
         ck = 0;
       }
-  
+
       if ( ck >= max ) {
         wink();
         ck = 0;
       }
-  
+
     };
-  
+
     var init = function(data) {
       document.addEventListener('keyup', record);
     };
-  
+
     var data = 'https://weichiachang.github.io/easter-eggs-mobile/images/wink.gif';
-  
+
     init(data);
 }
 
 function hi () {
   "use strict";
-  
+
     // type 'hi' on your keyboard
     var key = [72,73];
     var ck = 0;
     var max = key.length;
-  
+
     var hi = function() {
-  
+
       var shock = document.createElement('div');
       var img = new Image;
       img.src = data;
+      img.style.pointerEvents = "none";
       img.style.width = '300px';
       img.style.height = '300px';
       img.style.transition = '1s all';
@@ -5180,43 +5241,43 @@ function hi () {
       img.style.left = 'calc(50% - 150px)';
       img.style.bottom = '-100px';
       img.style.zIndex = 999999;
-  
+
       document.body.appendChild(img);
-  
+
       window.setTimeout(function(){
         img.style.bottom = '-50px';
       },30);
-  
+
       window.setTimeout(function(){
         img.style.bottom = '-300px';
       }, 4300);
       window.setTimeout(function(){
         img.parentNode.removeChild(img);
       }, 5400);
-  
+
     };
-  
+
     var record = function(e) {
-  
+
       if ( e.which === key[ck] ) {
         ck++;
       } else {
         ck = 0;
       }
-  
+
       if ( ck >= max ) {
         hi();
         ck = 0;
       }
-  
+
     };
-  
+
     var init = function(data) {
       document.addEventListener('keyup', record);
     };
-  
+
     var data = 'https://weichiachang.github.io/easter-eggs-mobile/images/hi.gif';
-  
+
     init(data);
 }
 

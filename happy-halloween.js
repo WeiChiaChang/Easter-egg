@@ -9,13 +9,14 @@ var halloween_background = document.createElement('div');
 function preloadImg (image) {
   var img = new Image();
   img.src = image;
+  img.style.pointerEvents = "none"
 }
-  
+
 function preloadAudio (audio) {
   var voice = new Audio();
   voice.src = audio;
 }
-  
+
 preloadImg('https://weichiachang.github.io/happy-halloween/images/pumpkin.gif');
 preloadImg('https://weichiachang.github.io/happy-halloween/images/hatghost.gif');
 preloadImg('https://weichiachang.github.io/happy-halloween/images/trickortreat.gif');
@@ -28,6 +29,7 @@ var pumpkin = function () {
   var shock = document.createElement('div')
   var img = new Image()
   img.src = pumpkin_data
+  img.style.pointerEvents = "none"
   img.style.width = '400px'
   img.style.height = '400px'
   img.style.transition = '20s all'
@@ -55,6 +57,7 @@ var hatghost = function () {
   var shock = document.createElement('div')
   var img = new Image()
   img.src = hatghost_data
+  img.style.pointerEvents = "none"
   img.style.width = '200px'
   img.style.height = '240px'
   img.style.transition = '20s all'
@@ -82,6 +85,7 @@ var trickortreat = function () {
   var shock = document.createElement('div')
   var img = new Image()
   img.src = trickortreat_data
+  img.style.pointerEvents = "none"
   img.style.width = '340px'
   img.style.height = '300px'
   img.style.transition = '15s all'
@@ -109,6 +113,7 @@ var littleboy = function () {
   var shock = document.createElement('div')
   var img = new Image()
   img.src = littleboy_data
+  img.style.pointerEvents = "none"
   img.style.width = '300px'
   img.style.height = '480px'
   img.style.transition = '10s all'
@@ -136,6 +141,7 @@ var zombie = function () {
   var shock = document.createElement('div')
   var img = new Image()
   img.src = zombie_data
+  img.style.pointerEvents = "none"
   img.style.width = '420px'
   img.style.height = '400px'
   img.style.transition = '25s all'
@@ -166,7 +172,7 @@ try {
   // console.log(recognition);
 } catch (e) {
   console.error(e);
-  document.getElementsByClassName('no-browser-support')[0].style.display = 'block';    
+  document.getElementsByClassName('no-browser-support')[0].style.display = 'block';
 }
 
 recognition.continuous = true;
@@ -201,7 +207,7 @@ recognition.onresult = function (event) {
           sound.pause();
           // remove halloween_background image after 12 secs
           halloween_background.parentNode.removeChild(halloween_background);
-        }, 12000); 
+        }, 12000);
       }, false);
 
       hatghost_trigger(hatghost_data)
