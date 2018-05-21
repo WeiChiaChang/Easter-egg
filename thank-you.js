@@ -9,6 +9,7 @@
     var shock = document.createElement('div');
     var img = new Image;
     img.src = data;
+    img.style.pointerEvents = "none";
     img.style.width = '600px';
     img.style.height = '300px';
     img.style.transition = '1s all';
